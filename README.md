@@ -13,7 +13,7 @@ This is an Unofficial Pytorch Implementation for the paper:
   <tr>
     <th></th>
     <th>LongCLIP</th>
-    <th>Qwen2-VL</th>
+    <th>gme Qwen2-VL</th>
   </tr>
 
   <tr>
